@@ -511,7 +511,7 @@ section .container {
   background: rgba(255, 255, 255, 0.2);
 }
 
-.skills .progress-bar {
+.skills .progress-bar1 {
   width: 80%;
   height: 10px;
   transition: 0.9s;
